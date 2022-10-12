@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($(($water#$WATER))+$(($stir#$STIR)))) | typeset -i$bestscol 
+echo $(($(($water#$WATER))+$(($stir#$STIR))))
